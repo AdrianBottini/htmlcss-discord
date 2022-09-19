@@ -5,7 +5,10 @@
 }
 
 header{
-    background-image: url('../img/jumbo.png');  
+    background-image: url('../img/jumbo.png'); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 500px;
 }
 
 .nav {
@@ -15,9 +18,8 @@ header{
 }
 
 .container-nav {
-    text-align: center;
+    text
     color: white;
-    margin-top: 60px;
-    padding-bottom: 30px;
+    margin-top: 100px;
 }
 
