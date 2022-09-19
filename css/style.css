@@ -8,7 +8,7 @@ header{
     background-image: url('../img/jumbo.png'); 
     background-size: contain;
     background-repeat: no-repeat;
-    height: 530px;
+    height: 700px;
 }
 
 .nav {
@@ -35,7 +35,7 @@ header{
 }
 
 .titolo {
-    margin-top: 100px;
+    margin-top: 150px;
     margin-bottom: 1rem;
 }
 
@@ -68,13 +68,13 @@ header{
 .img-1 {
     width: max-content;
     flex-grow: 3;
-   flex-basis: 0;
-   flex-shrink: 1;
+    flex-basis: 0;
+    flex-shrink: 1;
 }
 
 .secondo-titolo {
     width: 1000px;
-    flex-grow: 1;
+    flex-grow: 4;
     flex-basis: 0;
     flex-shrink: 0;
 }
