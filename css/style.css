@@ -5,13 +5,19 @@
 }
 
 header{
-    background-image: url('../img/jumbo.png'); 
-    position:  
+    background-image: url('../img/jumbo.png');  
 }
 
 .nav {
     display: flex;
     justify-content: space-around;
     color: white;
+}
+
+.container-nav {
+    text-align: center;
+    color: white;
+    margin-top: 60px;
+    padding-bottom: 30px;
 }
 
