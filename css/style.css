@@ -134,3 +134,26 @@ p {
 .quarto-titolo {
     margin-right: 528px;
 }
+
+.quinto-titolo {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragrafo {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.img-4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sesto-titolo {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 100px;
+}
