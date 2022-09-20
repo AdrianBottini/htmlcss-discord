@@ -23,6 +23,7 @@ header{
     color: white;
     padding: 1rem;
     text-decoration: none;
+    white-space: nowrap;
 }
 
 .button-accedi {
@@ -84,12 +85,13 @@ header{
     justify-content: center;
 }
 
-.container-img {
-    flex-grow: 3;
+.img-1 {
+    width: 700px;
+    margin-left: 200px;
+    margin-top: 80px
 }
 
 .secondo-titolo {
-    flex-grow: 1;
     margin-right: 528px;
 }
 
@@ -101,4 +103,34 @@ h2 {
 p {
     font-size: x-large;
     margin-top: 30px;
+}
+
+.container-flex-2 {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 60px;
+}
+
+.terzo-titolo {
+    margin-left: 300px;
+    margin-right: 50px;
+}
+
+.img-2 {
+    width: 700px;
+    margin-right: 300px;
+}
+
+.container-flex-3 {
+    display: flex;
+}
+
+.img-3 {
+    width: 700px;
+    margin-left: 200px;
+    margin-top: 80px;
+}
+
+.quarto-titolo {
+    margin-right: 528px;
 }
