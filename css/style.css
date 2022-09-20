@@ -76,19 +76,16 @@ header{
 
 .img-1 {
     width: 700px;
-    margin-left: 200px;
-    margin-top: 50px;
 }
 
 .container-flex {
     display: flex;
     justify-content: center;
+
 }
 
 .img-1 {
     width: 700px;
-    margin-left: 200px;
-    margin-top: 80px
 }
 
 .secondo-titolo {
@@ -107,8 +104,10 @@ p {
 
 .container-flex-2 {
     display: flex;
+    justify-content: center;
     flex-direction: row-reverse;
     margin-top: 60px;
+    background-color: lightgray;
 }
 
 .terzo-titolo {
@@ -118,17 +117,15 @@ p {
 
 .img-2 {
     width: 700px;
-    margin-right: 300px;
 }
 
 .container-flex-3 {
     display: flex;
+    justify-content: center;
 }
 
 .img-3 {
     width: 700px;
-    margin-left: 200px;
-    margin-top: 80px;
 }
 
 .quarto-titolo {
@@ -156,4 +153,16 @@ p {
     text-align: center;
     font-size: 20px;
     margin-top: 100px;
+}
+
+.button-scarica2 {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 40px;
+    text-decoration: none;
+    padding: 10px 5px;
+    margin: auto;
+    text-align: center;
+    width: 250px;
+    margin-top: 50px;
 }
