@@ -104,6 +104,7 @@ p {
     flex-direction: row-reverse;
     margin: 60px 0;
     background-color: lightgray;
+    padding-top: 40px;
 }
 
 .terzo-titolo {
@@ -161,10 +162,19 @@ p {
     text-align: center;
     width: 250px;
     margin-top: 50px;
+    margin-bottom: 30px;
 }
 
 .container-finale {
     background-color: lightgray;
+    margin-top: 40px;
+    padding-top: 40px;
+}
+
+h3 {
+    background-image: url('../img/stars.svg');
+    background-repeat: no-repeat;
+
 }
 
 h4 {
@@ -173,19 +183,19 @@ h4 {
 
 footer {
     background-color: #191970;
+    padding-top: 1px;
 }
 
 .footer {
     display: flex;
-    width: 100%;
     justify-content: space-around;
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: 50px;
 }
 
 h4 {
     color: 	#4169E1;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 h5 {
@@ -194,7 +204,7 @@ h5 {
 }
 
 .lista {
-    margin: 10px 10px;
+   padding: 10px;
 }
 
 a {
