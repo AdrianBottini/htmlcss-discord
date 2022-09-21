@@ -105,6 +105,7 @@ p {
     margin: 60px 0;
     background-color: lightgray;
     padding-top: 40px;
+    padding-bottom: 50px;
 }
 
 .terzo-titolo {
@@ -174,6 +175,7 @@ p {
 h3 {
     background-image: url('../img/stars.svg');
     background-repeat: no-repeat;
+    background-position: center;
 
 }
 
