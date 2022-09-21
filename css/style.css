@@ -171,7 +171,7 @@ p {
     text-align: center;
     width: 250px;
     margin-top: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
 }
 
 .container-finale {
@@ -183,6 +183,7 @@ h3 {
     background-image: url('../img/stars.svg');
     background-repeat: no-repeat;
     background-position: center;
+    padding-top: 40px;
 
 }
 
@@ -200,6 +201,7 @@ footer {
     justify-content: space-around;
     margin-top: 50px;
     margin-bottom: 50px;
+    border-bottom: grey solid 2px;
 }
 
 h4 {
@@ -240,4 +242,22 @@ span {
     font-size: 20px;
     color: white;
     margin-left: 10px;
+}
+
+.finale {
+    display: flex;
+    align-items: center;
+}
+
+.registrati {
+    background-color: #4169E1;
+    border-radius: 40px;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    margin-bottom: 30px;
+}
+.finale .discord {
+    margin: 0 auto 0 0;
+    margin-bottom: 30px;
 }
